@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/Fariiixm"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=9575CD&width=500&lines=hey%2C+i'm+fari;currently+at+BSC;probably+debugging+something;or+asleep" alt="typing" /> </a>
+
+not much else to say. the code's down there.
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fariiixm/Fariiixm/output/github-snake-dark.svg" /> <img alt="snake" src="https://raw.githubusercontent.com/Fariiixm/Fariiixm/output/github-snake.svg" /> </picture>
